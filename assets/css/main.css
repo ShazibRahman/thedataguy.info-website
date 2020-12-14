@@ -1491,3 +1491,11 @@ body.is-loading #banner:before {
     padding: 3em 0 1em 0;
   }
 }
+
+.imagex {
+  border-radius: 25%;
+  border: 2.5px solid #cfd8dc;
+  border-color: #3dea6f;
+  margin-right: 5px;
+  margin-left: 5px;
+}
